@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d131226.css",
+    "main.js": "/static/js/main.600ec5d4.js",
+    "static/js/453.16fa83e7.chunk.js": "/static/js/453.16fa83e7.chunk.js",
+    "static/media/Abil.jpg": "/static/media/Abil.0cc66211ee35b8b5788f.jpg",
+    "static/media/Faisal.jpg": "/static/media/Faisal.ba986ae341768ff54227.jpg",
+    "static/media/AF_LOGO_transparent.png": "/static/media/AF_LOGO_transparent.e6ae8eada9d5146e1ff9.png",
+    "static/media/musify.jpg": "/static/media/musify.4fc1b36b07b7fc2049ff.jpg",
+    "index.html": "/index.html",
+    "main.9d131226.css.map": "/static/css/main.9d131226.css.map",
+    "main.600ec5d4.js.map": "/static/js/main.600ec5d4.js.map",
+    "453.16fa83e7.chunk.js.map": "/static/js/453.16fa83e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d131226.css",
+    "static/js/main.600ec5d4.js"
+  ]
+}
